@@ -1,0 +1,8 @@
+requests
+colorama
+websockets
+faker
+argparse
+random
+json	
+itertools

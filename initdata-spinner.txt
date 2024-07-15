@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A7023533254%2C%22first_name%22%3A%22Yoga%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=8071103647562081474&chat_type=channel&start_param=r_3160237&auth_date=1719834143&hash=2d6842708f91e27e71dbdaaaa7d03afb66b48c5f3aefb85258d0c86958283563

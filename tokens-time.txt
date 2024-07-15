@@ -1,0 +1,1 @@
+query_id=AAHR4_BKAAAAANHj8Er73738&user=%7B%22id%22%3A1257300945%2C%22first_name%22%3A%22YogaxD%F0%9F%9A%80%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22yogakokxd%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1720872623&hash=08bf3a82584e1954e124dcd0ffa1ddc34a79c08616781418cfee0ac4a7e45415
